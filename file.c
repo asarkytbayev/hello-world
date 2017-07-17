@@ -4,6 +4,6 @@ int main(int argc, char **argv) {
     printf("Hello, world!\n");
     printf("This is another hello!\n");
     printf("And another hello\n");
-    int x = 55;
+    int x = 28;
     return 0;
 }
